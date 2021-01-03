@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.flw {
+    color: rgb(39, 186, 235);
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.background {
+    background-image: url(yaarme1.jpg);
+}
+
+.info {
+    padding-bottom: 10px;
+}
+
+.back-img {
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-bottom: -50px;
+    width: 100px;
+}
+
+.name {
+    padding-top: 30px;
+}
+
+.posted {
+    padding: 5px;
+}
+h1{
+    font-style: Sans-serif;
+    margin-top: 35px;
+    margin-bottom: 12px;
+}
+
+section {
+    padding: 10px;
+}
+
+h6{
+    font-size: small;
+    font-weight: bold;
+}
+
+.post {
+    display: flex;
+    flex-direction: row;
+    flex: 2;
+    padding-top: 10px ;
+}
+
+.post img {
+    width: 30px;
+    padding-right: 5px;
+}
+
+.post h4, .post p {
+    margin-top: -3px;
+}
+
+.post p {
+    color: gray;
+    font-style: sans-serif;
+}
+
+.search-container {
+    display: flex;
+    flex: 2;
+    padding: 10px;
+}
+
+input {
+    flex: 1;
+    outline-width: 0;
+    border-radius: none;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    padding: 10px;
+    width: 80%;
+    
+}
+
+form {
+    padding-left: 100px;
+    padding-left: 40px;
+    width: 90%;
+}
+
+.bio img {
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 70%;
+}
